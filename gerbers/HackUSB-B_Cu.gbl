@@ -1,0 +1,42 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.9-8.0.9-0~ubuntu24.04.1*%
+%TF.CreationDate,2026-05-27T02:24:07+02:00*%
+%TF.ProjectId,HackUSB,4861636b-5553-4422-9e6b-696361645f70,1.0*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L4,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.9-8.0.9-0~ubuntu24.04.1) date 2026-05-27 02:24:07*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10C,0.900000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11C,1.700000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,J1,MP1*%
+%TO.N,N/C*%
+X500000Y-20000000D03*
+%TO.P,J1,MP2*%
+X5500000Y-20000000D03*
+%TD*%
+D11*
+%TO.P,J3,1*%
+%TO.N,GND*%
+X46000000Y-3190000D03*
+%TO.P,J3,2*%
+%TO.N,+3V3*%
+X46000000Y-5730000D03*
+%TO.P,J3,3*%
+%TO.N,UART4_TX*%
+X46000000Y-8270000D03*
+%TO.P,J3,4*%
+%TO.N,UART4_RX*%
+X46000000Y-10810000D03*
+%TD*%
+M02*

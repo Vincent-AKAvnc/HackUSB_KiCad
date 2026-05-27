@@ -1,0 +1,13 @@
+# KiCad backups et fichiers temporaires
+*-backups/
+_autosave-*
+~*.lck
+*.lck
+
+# Logs / rapports intermédiaires
+DRC_report.txt
+DRC_report_v2.txt
+
+# Script de génération (outil de dev, pas du livrable)
+generate_pcb.py
+snapeda_project/

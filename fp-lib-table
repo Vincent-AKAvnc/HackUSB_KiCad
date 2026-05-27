@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OSD32MP157F-512M-EAA") (type "KiCad") (uri "${KIPRJMOD}/libraries/footprints/OSD32MP157F-512M-EAA.pretty") (options "") (descr "OSD32MP157F footprint SnapEDA - BGA-324"))
+  (lib (name "Package_TO_SOT_SMD") (type "KiCad") (uri "${KICAD8_FOOTPRINT_DIR}/Package_TO_SOT_SMD.pretty") (options "") (descr "SOT packages"))
+  (lib (name "Package_BGA") (type "KiCad") (uri "${KICAD8_FOOTPRINT_DIR}/Package_BGA.pretty") (options "") (descr "BGA packages"))
+  (lib (name "Connector_USB") (type "KiCad") (uri "${KICAD8_FOOTPRINT_DIR}/Connector_USB.pretty") (options "") (descr "USB connectors"))
+  (lib (name "Connector_PinHeader_2.54mm") (type "KiCad") (uri "${KICAD8_FOOTPRINT_DIR}/Connector_PinHeader_2.54mm.pretty") (options "") (descr "Pin headers 2.54mm"))
+  (lib (name "Capacitor_SMD") (type "KiCad") (uri "${KICAD8_FOOTPRINT_DIR}/Capacitor_SMD.pretty") (options "") (descr "SMD capacitors"))
+  (lib (name "Resistor_SMD") (type "KiCad") (uri "${KICAD8_FOOTPRINT_DIR}/Resistor_SMD.pretty") (options "") (descr "SMD resistors"))
+  (lib (name "Crystal") (type "KiCad") (uri "${KICAD8_FOOTPRINT_DIR}/Crystal.pretty") (options "") (descr "Crystals"))
+)
