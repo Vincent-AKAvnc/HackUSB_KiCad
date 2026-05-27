@@ -1,0 +1,431 @@
+** Drc report for HackUSB.kicad_pcb **
+** Created on 2026-05-27T15:38:35+0200 **
+
+** Found 49 DRC violations **
+[silk_overlap]: Recouvrement de sérigraphie
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(26,7500 mm, 36,5000 mm): Segment sur F.Silkscreen
+    @(28,0000 mm, 36,0000 mm): Référence 'C13'
+[silk_overlap]: Recouvrement de sérigraphie
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(3,0000 mm, 18,0000 mm): Référence 'J1'
+    @(-0,6000 mm, 18,4000 mm): Segment sur F.Silkscreen
+[silk_overlap]: Recouvrement de sérigraphie
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(33,2500 mm, 29,5000 mm): Segment sur F.Silkscreen
+    @(32,0000 mm, 36,0000 mm): Référence 'C14'
+[silk_overlap]: Recouvrement de sérigraphie
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(28,0000 mm, 36,0000 mm): Référence 'C13'
+    @(33,2500 mm, 36,5000 mm): Segment sur F.Silkscreen
+[silk_overlap]: Recouvrement de sérigraphie
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(33,2500 mm, 36,5000 mm): Segment sur F.Silkscreen
+    @(32,0000 mm, 36,0000 mm): Référence 'C14'
+[silk_overlap]: Recouvrement de sérigraphie
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(46,0000 mm, 4,0000 mm): Texte Pcb 'UART' on F.Silkscreen
+    @(44,9000 mm, 12,1000 mm): Segment sur F.Silkscreen
+[silk_overlap]: Recouvrement de sérigraphie
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(46,0000 mm, 4,0000 mm): Texte Pcb 'UART' on F.Silkscreen
+    @(46,0000 mm, 5,0000 mm): Référence 'J3'
+[silk_overlap]: Recouvrement de sérigraphie
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(47,1000 mm, 1,9000 mm): Segment sur F.Silkscreen
+    @(46,0000 mm, 4,0000 mm): Texte Pcb 'UART' on F.Silkscreen
+[silk_overlap]: Recouvrement de sérigraphie
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(36,0000 mm, 7,0000 mm): Référence 'C9'
+    @(38,0000 mm, 7,0000 mm): Référence 'C10'
+[silk_over_copper]: Sérigraphie tronquée par masque de soudure
+    Local override; warning
+    @(46,0000 mm, 4,0000 mm): Texte Pcb 'UART' on F.Silkscreen
+[silk_over_copper]: Sérigraphie tronquée par masque de soudure
+    Local override; warning
+    @(30,0000 mm, 18,0000 mm): Référence 'U1'
+[silk_over_copper]: Sérigraphie tronquée par masque de soudure
+    Local override; warning
+    @(30,0000 mm, 31,0000 mm): Référence 'U2'
+[silk_over_copper]: Sérigraphie tronquée par masque de soudure
+    Local override; warning
+    @(46,0000 mm, 5,0000 mm): Référence 'J3'
+[silk_over_copper]: Sérigraphie tronquée par masque de soudure
+    Local override; warning
+    @(20,0000 mm, 7,0000 mm): Référence 'C1'
+[silk_over_copper]: Sérigraphie tronquée par masque de soudure
+    Local override; warning
+    @(28,0000 mm, 36,0000 mm): Référence 'C13'
+[silk_over_copper]: Sérigraphie tronquée par masque de soudure
+    Local override; warning
+    @(32,0000 mm, 36,0000 mm): Référence 'C14'
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(30,0000 mm, 20,0000 mm): Empreinte U1
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(30,0000 mm, 33,0000 mm): Empreinte U2
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(12,0000 mm, 20,0000 mm): Empreinte U3
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(48,0000 mm, 20,0000 mm): Empreinte U4
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(3,0000 mm, 20,0000 mm): Empreinte J1
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(57,0000 mm, 20,0000 mm): Empreinte J2
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(18,0000 mm, 7,0000 mm): Empreinte Y1
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(46,0000 mm, 7,0000 mm): Empreinte J3
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(20,0000 mm, 9,0000 mm): Empreinte C1
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(22,0000 mm, 9,0000 mm): Empreinte C2
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(24,0000 mm, 9,0000 mm): Empreinte C3
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(26,0000 mm, 9,0000 mm): Empreinte C4
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(28,0000 mm, 9,0000 mm): Empreinte C5
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(30,0000 mm, 9,0000 mm): Empreinte C6
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(32,0000 mm, 9,0000 mm): Empreinte C7
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(34,0000 mm, 9,0000 mm): Empreinte C8
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(36,0000 mm, 9,0000 mm): Empreinte C9
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(38,0000 mm, 9,0000 mm): Empreinte C10
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(20,0000 mm, 36,0000 mm): Empreinte C11
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(24,0000 mm, 36,0000 mm): Empreinte C12
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(28,0000 mm, 38,0000 mm): Empreinte C13
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(32,0000 mm, 38,0000 mm): Empreinte C14
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(52,0000 mm, 18,0000 mm): Empreinte R1
+[lib_footprint_issues]: La configuration actuelle n'inclut pas la librairie 'HackUSB'.
+    Local override; warning
+    @(52,0000 mm, 22,0000 mm): Empreinte R2
+[silk_edge_clearance]: Sérigraphie tronquée par bord de PCB
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(0,0000 mm, 40,0000 mm): Segment sur Edge.Cuts
+    @(3,0000 mm, 37,0000 mm): Texte Pcb 'USB-A' on F.Silkscreen
+[silk_edge_clearance]: Sérigraphie tronquée par bord de PCB
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(60,0000 mm, 0,0000 mm): Segment sur Edge.Cuts
+    @(57,0000 mm, 37,0000 mm): Texte Pcb 'USB-C' on F.Silkscreen
+[copper_edge_clearance]: Violation d'isolation du contour du CI (configuration des contraintes du contour du PCB isolation 0,5000 mm; réel 0,0500 mm)
+    Rule: configuration des contraintes du contour du PCB; error
+    @(0,0000 mm, 40,0000 mm): Segment sur Edge.Cuts
+    @(0,5000 mm, 20,0000 mm): Pad métallisé MP1 [<no net>] de J1
+[silk_edge_clearance]: Sérigraphie tronquée par bord de PCB
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(0,0000 mm, 40,0000 mm): Segment sur Edge.Cuts
+    @(-0,6000 mm, 18,4000 mm): Segment sur F.Silkscreen
+[silk_edge_clearance]: Sérigraphie tronquée par bord de PCB
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(0,0000 mm, 40,0000 mm): Segment sur Edge.Cuts
+    @(6,6000 mm, 21,6000 mm): Segment sur F.Silkscreen
+[copper_edge_clearance]: Violation d'isolation du contour du CI (configuration des contraintes du contour du PCB isolation 0,5000 mm; réel 0,0000 mm)
+    Rule: configuration des contraintes du contour du PCB; error
+    @(60,0000 mm, 0,0000 mm): Segment sur Edge.Cuts
+    @(59,8000 mm, 20,0000 mm): Pad MP2 [<no net>] de J2 sur F.Cu
+[silk_edge_clearance]: Sérigraphie tronquée par bord de PCB
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(60,0000 mm, 0,0000 mm): Segment sur Edge.Cuts
+    @(53,4000 mm, 18,7000 mm): Segment sur F.Silkscreen
+[silk_edge_clearance]: Sérigraphie tronquée par bord de PCB
+    Rule: configuration des contraintes de la sérigraphie; warning
+    @(60,0000 mm, 0,0000 mm): Segment sur Edge.Cuts
+    @(60,6000 mm, 21,3000 mm): Segment sur F.Silkscreen
+[courtyards_overlap]: Zones d'occupation d'empreintes chevauchantes
+    Rule: configuration des contraintes des zones d'occupation; error
+    @(30,0000 mm, 20,0000 mm): Empreinte U1
+    @(30,0000 mm, 33,0000 mm): Empreinte U2
+
+** Found 64 unconnected pads **
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(31,5000 mm, 16,5000 mm): Pad F11 [GND] de U1 sur F.Cu
+    @(30,5000 mm, 16,5000 mm): Pad F10 [GND] de U1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(31,5000 mm, 16,5000 mm): Pad F11 [GND] de U1 sur F.Cu
+    @(31,5000 mm, 17,5000 mm): Pad G11 [GND] de U1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(30,5000 mm, 16,5000 mm): Pad F10 [GND] de U1 sur F.Cu
+    @(29,5000 mm, 16,5000 mm): Pad F9 [GND] de U1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(28,2500 mm, 30,0000 mm): Pad A3 [GND] de U2 sur F.Cu
+    @(29,7500 mm, 30,0000 mm): Pad A6 [GND] de U2 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(29,7500 mm, 36,0000 mm): Pad N6 [GND] de U2 sur F.Cu
+    @(31,2500 mm, 36,0000 mm): Pad N9 [GND] de U2 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(29,7500 mm, 36,0000 mm): Pad N6 [GND] de U2 sur F.Cu
+    @(28,2500 mm, 36,0000 mm): Pad N3 [GND] de U2 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(29,7500 mm, 30,0000 mm): Pad A6 [GND] de U2 sur F.Cu
+    @(31,2500 mm, 30,0000 mm): Pad A9 [GND] de U2 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(22,5000 mm, 9,0000 mm): Pad 2 [GND] de C2 sur F.Cu
+    @(20,5000 mm, 9,0000 mm): Pad 2 [GND] de C1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(24,5000 mm, 9,0000 mm): Pad 2 [GND] de C3 sur F.Cu
+    @(22,5000 mm, 9,0000 mm): Pad 2 [GND] de C2 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(36,5000 mm, 9,0000 mm): Pad 2 [GND] de C9 sur F.Cu
+    @(38,5000 mm, 9,0000 mm): Pad 2 [GND] de C10 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(34,5000 mm, 9,0000 mm): Pad 2 [GND] de C8 sur F.Cu
+    @(36,5000 mm, 9,0000 mm): Pad 2 [GND] de C9 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(32,5000 mm, 9,0000 mm): Pad 2 [GND] de C7 sur F.Cu
+    @(34,5000 mm, 9,0000 mm): Pad 2 [GND] de C8 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(30,5000 mm, 9,0000 mm): Pad 2 [GND] de C6 sur F.Cu
+    @(32,5000 mm, 9,0000 mm): Pad 2 [GND] de C7 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(26,5000 mm, 9,0000 mm): Pad 2 [GND] de C4 sur F.Cu
+    @(24,5000 mm, 9,0000 mm): Pad 2 [GND] de C3 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(28,5000 mm, 9,0000 mm): Pad 2 [GND] de C5 sur F.Cu
+    @(30,5000 mm, 9,0000 mm): Pad 2 [GND] de C6 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(26,5000 mm, 9,0000 mm): Pad 2 [GND] de C4 sur F.Cu
+    @(28,5000 mm, 9,0000 mm): Pad 2 [GND] de C5 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(28,8000 mm, 38,0000 mm): Pad 2 [GND] de C13 sur F.Cu
+    @(28,2500 mm, 36,0000 mm): Pad N3 [GND] de U2 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(32,8000 mm, 38,0000 mm): Pad 2 [GND] de C14 sur F.Cu
+    @(31,2500 mm, 36,0000 mm): Pad N9 [GND] de U2 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(28,2500 mm, 36,0000 mm): Pad N3 [GND] de U2 sur F.Cu
+    @(24,8000 mm, 36,0000 mm): Pad 2 [GND] de C12 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(24,8000 mm, 36,0000 mm): Pad 2 [GND] de C12 sur F.Cu
+    @(20,8000 mm, 36,0000 mm): Pad 2 [GND] de C11 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(28,2500 mm, 36,0000 mm): Pad N3 [GND] de U2 sur F.Cu
+    @(28,2500 mm, 30,0000 mm): Pad A3 [GND] de U2 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(55,0000 mm, 19,5000 mm): Pad 6 [GND] de J2 sur F.Cu
+    @(48,9500 mm, 20,0000 mm): Pad 5 [GND] de U4 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(30,5000 mm, 16,5000 mm): Pad F10 [GND] de U1 sur F.Cu
+    @(30,5000 mm, 9,0000 mm): Pad 2 [GND] de C6 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(12,9500 mm, 20,0000 mm): Pad 5 [GND] de U3 sur F.Cu
+    @(4,5000 mm, 20,0000 mm): Pad 4 [GND] de J1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(38,5000 mm, 9,0000 mm): Pad 2 [GND] de C10 sur F.Cu
+    @(46,0000 mm, 3,1900 mm): Pad métallisé 1 [GND] de J3
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(31,5000 mm, 17,5000 mm): Pad G11 [GND] de U1 sur F.Cu
+    @(31,2500 mm, 30,0000 mm): Pad A9 [GND] de U2 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(12,9500 mm, 20,0000 mm): Pad 5 [GND] de U3 sur F.Cu
+    @(20,5000 mm, 9,0000 mm): Pad 2 [GND] de C1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(48,9500 mm, 20,0000 mm): Pad 5 [GND] de U4 sur F.Cu
+    @(38,5000 mm, 9,0000 mm): Pad 2 [GND] de C10 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(23,2000 mm, 36,0000 mm): Pad 1 [+5V_VBUS] de C12 sur F.Cu
+    @(19,2000 mm, 36,0000 mm): Pad 1 [+5V_VBUS] de C11 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(27,2000 mm, 38,0000 mm): Pad 1 [+5V_VBUS] de C13 sur F.Cu
+    @(31,2000 mm, 38,0000 mm): Pad 1 [+5V_VBUS] de C14 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(27,2000 mm, 38,0000 mm): Pad 1 [+5V_VBUS] de C13 sur F.Cu
+    @(23,2000 mm, 36,0000 mm): Pad 1 [+5V_VBUS] de C12 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(55,0000 mm, 20,5000 mm): Pad 1 [+5V_VBUS] de J2 sur F.Cu
+    @(47,0500 mm, 20,0000 mm): Pad 2 [+5V_VBUS] de U4 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(11,0500 mm, 20,0000 mm): Pad 2 [+5V_VBUS] de U3 sur F.Cu
+    @(1,5000 mm, 20,0000 mm): Pad 1 [+5V_VBUS] de J1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(19,2000 mm, 36,0000 mm): Pad 1 [+5V_VBUS] de C11 sur F.Cu
+    @(11,0500 mm, 20,0000 mm): Pad 2 [+5V_VBUS] de U3 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(47,0500 mm, 20,0000 mm): Pad 2 [+5V_VBUS] de U4 sur F.Cu
+    @(31,2000 mm, 38,0000 mm): Pad 1 [+5V_VBUS] de C14 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(35,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C9 sur F.Cu
+    @(37,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C10 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(31,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C7 sur F.Cu
+    @(33,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C8 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(29,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C6 sur F.Cu
+    @(31,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C7 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(27,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C5 sur F.Cu
+    @(29,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C6 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(25,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C4 sur F.Cu
+    @(27,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C5 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(23,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C3 sur F.Cu
+    @(25,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C4 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(33,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C8 sur F.Cu
+    @(35,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C9 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(21,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C2 sur F.Cu
+    @(23,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C3 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(19,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C1 sur F.Cu
+    @(21,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C2 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(51,5000 mm, 22,0000 mm): Pad 1 [+3V3] de R2 sur F.Cu
+    @(51,5000 mm, 18,0000 mm): Pad 1 [+3V3] de R1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(46,0000 mm, 5,7300 mm): Pad métallisé 2 [+3V3] de J3
+    @(37,5000 mm, 9,0000 mm): Pad 1 [+3V3] de C10 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(51,5000 mm, 18,0000 mm): Pad 1 [+3V3] de R1 sur F.Cu
+    @(46,0000 mm, 5,7300 mm): Pad métallisé 2 [+3V3] de J3
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(32,7500 mm, 30,0000 mm): Pad A12 [+3V3] de U2 sur F.Cu
+    @(51,5000 mm, 22,0000 mm): Pad 1 [+3V3] de R2 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(12,9500 mm, 20,9500 mm): Pad 6 [USB_A_DP] de U3 sur F.Cu
+    @(11,0500 mm, 21,5000 mm): Piste [USB_A_DP] sur F.Cu, long. 0,5500 mm
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(37,5000 mm, 20,5000 mm): Pad K17 [USB_A_DP] de U1 sur F.Cu
+    @(12,9500 mm, 20,9500 mm): Pad 6 [USB_A_DP] de U3 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(11,0500 mm, 18,5000 mm): Piste [USB_A_DM] sur F.Cu, long. 0,5500 mm
+    @(12,9500 mm, 19,0500 mm): Pad 4 [USB_A_DM] de U3 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(38,5000 mm, 20,5000 mm): Pad K18 [USB_A_DM] de U1 sur F.Cu
+    @(12,9500 mm, 19,0500 mm): Pad 4 [USB_A_DM] de U3 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(27,2500 mm, 30,0000 mm): Pad A1 [SDMMC1_CLK] de U2 sur F.Cu
+    @(37,5000 mm, 28,5000 mm): Pad V17 [SDMMC1_CLK] de U1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(27,7500 mm, 30,0000 mm): Pad A2 [SDMMC1_CMD] de U2 sur F.Cu
+    @(38,5000 mm, 27,5000 mm): Pad U18 [SDMMC1_CMD] de U1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(27,2500 mm, 30,5000 mm): Pad B1 [SDMMC1_D0] de U2 sur F.Cu
+    @(36,5000 mm, 26,5000 mm): Pad T16 [SDMMC1_D0] de U1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(27,7500 mm, 30,5000 mm): Pad B2 [SDMMC1_D1] de U2 sur F.Cu
+    @(36,5000 mm, 27,5000 mm): Pad U16 [SDMMC1_D1] de U1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(28,2500 mm, 30,5000 mm): Pad B3 [SDMMC1_D2] de U2 sur F.Cu
+    @(36,5000 mm, 28,5000 mm): Pad V16 [SDMMC1_D2] de U1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(28,7500 mm, 30,5000 mm): Pad B4 [SDMMC1_D3] de U2 sur F.Cu
+    @(37,5000 mm, 27,5000 mm): Pad U17 [SDMMC1_D3] de U1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(29,2500 mm, 30,5000 mm): Pad B5 [SDMMC1_D4] de U2 sur F.Cu
+    @(33,5000 mm, 26,5000 mm): Pad T13 [SDMMC1_D4] de U1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(29,7500 mm, 30,5000 mm): Pad B6 [SDMMC1_D5] de U2 sur F.Cu
+    @(33,5000 mm, 27,5000 mm): Pad U13 [SDMMC1_D5] de U1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(30,2500 mm, 30,5000 mm): Pad B7 [SDMMC1_D6] de U2 sur F.Cu
+    @(38,5000 mm, 25,5000 mm): Pad R18 [SDMMC1_D6] de U1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(30,7500 mm, 30,5000 mm): Pad B8 [SDMMC1_D7] de U2 sur F.Cu
+    @(36,5000 mm, 25,5000 mm): Pad R16 [SDMMC1_D7] de U1 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(52,5000 mm, 18,0000 mm): Pad 2 [CC1] de R1 sur F.Cu
+    @(58,0000 mm, 20,5000 mm): Pad 4 [CC1] de J2 sur F.Cu
+[unconnected_items]: Connexion manquante entre les éléments
+    Local override; error
+    @(52,5000 mm, 22,0000 mm): Pad 2 [CC2] de R2 sur F.Cu
+    @(59,0000 mm, 20,5000 mm): Pad 5 [CC2] de J2 sur F.Cu
+
+** Found 0 Footprint errors **
+
+** End of Report **
